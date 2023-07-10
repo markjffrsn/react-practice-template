@@ -5,7 +5,7 @@ export default function Hero() {
 		<>
 			<main>
 				<section className="container-fluid hero">
-					<h1 className="hero__title">This is my Hero!</h1>
+					<h1 className="hero__title">Hello Wordl</h1>
 					<div className="hero__text">
 						<p>
 							Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex
