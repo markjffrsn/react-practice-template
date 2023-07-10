@@ -6,7 +6,7 @@ export default function Hero() {
 			<main>
 				<section className="container-fluid hero p-5">
 					<div className="container">
-						<h1 className="hero__title">Hello World</h1>
+						<h1 className="hero__title">About</h1>
 						<div className="hero__text">
 							<h3>
 								Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex

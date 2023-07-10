@@ -1,19 +1,21 @@
+.active {
+	color: red !important;
+}
+
 .hero {
-	height: 100vh;
 	background-color: rgb(44, 44, 44);
 	position: relative;
 
 	&__title {
 		font-size: 5rem;
-		color: violet;
+		color: rgb(86, 246, 227);
 	}
 
 	&__text {
 		max-width: 80%;
 
-		p {
-			color: yellow;
-			font-size: 0.88rem;
+		h3 {
+			color: rgb(255, 255, 255);
 			margin-top: 20px;
 		}
 	}
