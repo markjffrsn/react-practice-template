@@ -9,7 +9,7 @@ export default function Hero() {
 					<div className="hero__text">
 						<p>
 							Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex
-							reprehenderit fugit debitis natus exercitationem? Dolore soluta
+							reprehenderit fugit debitis natus exercitationem? Dolore s oluta
 							labore illo expedita nam?
 						</p>
 					</div>
