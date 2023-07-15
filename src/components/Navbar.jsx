@@ -23,6 +23,14 @@ export default function Navbar() {
 									About
 								</NavLink>
 							</li>
+
+							<select name="travelPreference" id="travelPreference">
+								<option value="Facebook">Facebook</option>
+								<option value="Instagram">Instagram</option>
+								<option value="Tiktok">Tiktok</option>
+								<option value="Website">Website</option>
+								<option value="Whatsapp">Whatsapp</option>
+							</select>
 						</ul>
 					</div>
 				</nav>
